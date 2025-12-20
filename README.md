@@ -1,12 +1,64 @@
-<h1>Hi 👋, I'm Akshul </h1>
-<p>A passionate backend developer with a strong focus on Java and server-side technologies</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/AkshulJamwal" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/akshul-jamwal-654b79217/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:091519,100:00FFEA&height=150&text=Hi,%20I'm%20Akshul%20Jamwal&fontSize=50&fontColor=00FFEA&fontAlignY=45&animation=twinkling&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Computer%20Vision&descSize=27&descAlignY=85&section=header" />
+
+I'm **Akshul Jamwal**, a Software Engineering student from Himachal, India.  
+I design and build **scalable backend systems** using **Java & Spring Boot**, and containerize applications with **Docker**.
+
+💡 *“Bridging the gap between sophisticated math and practical usability.”*
+
+---
+
+<div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" 
+    style="width: 100%" 
+  />
+</div>
+
+---
+
+### 📬 Connect with Me  
+
+<p align="center">
+  <a href="mailto:akshuljamwal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=00FFEA" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshul-jamwal-654b79217/">
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=00FFEA" />
+  </a>
+  <a href="https://www.instagram.com/akshuljamwal/">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=00FFEA" />
+  </a>
+</p>
+
+---
+
+### 🧠 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,html,css,js&theme=dark" />
+</p>
+
+---
+
+### ⚙️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,postman,maven&theme=dark" />
+</p>
+
+<img 
+  align="right" 
+  width="25%" 
+  src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" 
+/>
+
+---
+
+### 🧩 Most Used Languages
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshul1&layout=compact&langs_count=8&theme=transparent&title_color=00FFEA&text_color=e5f6ff&bg_color=091519&custom_title=Most%20Used%20Languages" 
+  height="170em"
+/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:091519,100:00FFEA&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=00FFEA&animation=twinkling" />
