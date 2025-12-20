@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:091519,100:00FFEA&height=150&text=Hi,%20I'm%20Akshul%20Jamwal&fontSize=50&fontColor=00FFEA&fontAlignY=45&animation=twinkling&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Computer%20Vision&descSize=27&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:091519,100:00FFEA&height=150&text=Hi,%20I'm%20Akshul%20Jamwal&fontSize=50&fontColor=00FFEA&fontAlignY=45&animation=twinkling&desc=Java%20Developer%20%7C%20Spring%20Boot&descSize=27&descAlignY=85&section=header" />
+
 
 I'm **Akshul Jamwal**, a Software Engineering student from Himachal, India.  
 I design and build **scalable backend systems** using **Java & Spring Boot**, and containerize applications with **Docker**.
