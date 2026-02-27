@@ -1,10 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:091519,100:00FFEA&height=150&text=Hi,%20I'm%20Akshul%20Jamwal&fontSize=50&fontColor=00FFEA&fontAlignY=45&animation=twinkling&desc=Java%20Developer%20%7C%20Spring%20Boot&descSize=27&descAlignY=85&section=header" />
 
-
 I'm **Akshul Jamwal**, a Software Engineering student from Himachal, India.  
-I design and build **scalable backend systems** using **Java & Spring Boot**, and containerize applications with **Docker**.
+I design and build **scalable backend systems** using **Java & Spring Boot**, implement caching with **Redis**, ensure reliability through **Unit Testing**, and containerize applications with **Docker**.
 
-💡 *“Bridging the gap between sophisticated math and practical usability.”*
+💡 *"Bridging the gap between sophisticated math and practical usability."*
 
 ---
 
@@ -35,14 +34,18 @@ I design and build **scalable backend systems** using **Java & Spring Boot**, an
 
 ### 🧠 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,redis,docker,mysql,html,css,js&theme=dark" />
 </p>
 
 ---
 
-### ⚙️ Tools
+### ⚙️ Tools & Testing
 <p align="center">
   <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,postman,maven&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit_5-091519?style=for-the-badge&logo=junit5&logoColor=00FFEA" />
+  <img src="https://img.shields.io/badge/Mockito-091519?style=for-the-badge&logo=java&logoColor=00FFEA" />
 </p>
 
 <img 
